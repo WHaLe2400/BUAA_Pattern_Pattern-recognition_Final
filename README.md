@@ -18,8 +18,8 @@ Main.0.5程序对于加载数据的部分进行了修改，这样数据会在开
 这一程序在实验中主要用于遍历不同的卷积核与隐藏层尺寸对于模型最终的预测结果的影响，为后续选择合适的模型参数做准备。<br />
 <br />
 __**UpDate25.6.17**__:<br />
-Main.1.0中加入了transformer机制，在test文件夹中的正确率得到了有效地提升，同时对于GPU性能运用也相对充分，然而，在尝试将Conv1层也进行transfer时模型数据量过大，现存直接被爆破！！！！<bar/>
-更新了Lr的选择方式，现在的learningrate会跟随loss的优化而不断改进
+Main.1.0中加入了transformer机制，在test文件夹中的正确率得到了有效地提升，同时对于GPU性能运用也相对充分，然而，在尝试将Conv1层也进行transfer时模型数据量过大，显存直接被爆破！！！！<bar/>
+更新了Lr的选择方式，现在的learningrate会跟随loss的优化而不断改进<br />
 __**UpDate25.6.18**__:<br />
 Main.1.2对于数据集的划分问题进行了进一步优化，严格划分了训练集、验证集、测试集，方便最终进行结果评价。<br />
 ![1_loss_accuracy](https://github.com/user-attachments/assets/ed5cce22-ee8e-4553-a806-c06440144d45)
