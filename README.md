@@ -22,6 +22,8 @@ Main.1.0中加入了transformer机制，在test文件夹中的正确率得到了
 __**UpDate25.6.18**__:<br />
 Main.1.2对于数据集的划分问题进行了进一步优化，严格划分了训练集、验证集、测试集，方便最终进行结果评价。<br />
 ![1_loss_accuracy](https://github.com/user-attachments/assets/ed5cce22-ee8e-4553-a806-c06440144d45)
+![test_result](https://github.com/user-attachments/assets/3a08e351-8f3b-4f37-97e0-be440176b3da)
+
 
 
 <br />
