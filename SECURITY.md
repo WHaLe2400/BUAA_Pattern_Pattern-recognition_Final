@@ -1,5 +1,5 @@
 # Security Policy<br />
-（宋佳泽传的，我不道是干哈的，也许大概可能maybe和这些程序无关）
+（sjz传的，我不道是干哈的，也许大概可能maybe和这些程序无关）
 
 ## Supported Versions
 
