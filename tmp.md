@@ -9,5 +9,6 @@
 
 2. **执行测试命令**  
    在打开的终端中输入以下命令：
-bash
+'''bash
 test.exe --data_csv <存放图片地址的csv文件路径> --result_csv <用于保存结果的csv文件路径> --model_path <提交的.thp文件路径>
+'''
